@@ -49,7 +49,7 @@ To run the code:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   git clone https://github.com/avi4h/credit-card-fraud-detection.git
    ```
 
 2. Navigate to the project directory:
