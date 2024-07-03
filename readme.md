@@ -1,7 +1,3 @@
-Certainly! Here's a sample README file content based on the code you provided for detecting credit card fraud using a Random Forest classifier:
-
----
-
 # Credit Card Fraud Detection
 
 This repository contains code to detect fraudulent credit card transactions using machine learning techniques, specifically employing a Random Forest classifier. The dataset used is highly imbalanced, where fraudulent transactions are significantly fewer than valid ones.
@@ -68,9 +64,6 @@ To run the code:
 
 5. Run the Jupyter Notebook or Python script to execute the code.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
